@@ -10,6 +10,7 @@
 ➠pip install fake-email
 ➠git clone https://github.com/PahrulXD/TOOLS
 ➠cd TOOLS
+➠git pull
 ➠python TOOLS.py
 ```
 
