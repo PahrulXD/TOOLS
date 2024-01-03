@@ -14,3 +14,12 @@
 ```
 
 ### PYDROID
+
+```
+➠pip install requests 
+➠pip install mechanize
+➠pip install fbthon
+➠pip install fake-email
+➠wget https://raw.githubusercontent.com/PahrulXD/TOOLS/main/TOOLS.py
+➠python TOOLS.py
+```
